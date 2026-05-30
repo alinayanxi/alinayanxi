@@ -147,13 +147,9 @@ AWS · PySpark · GitHub · Data Processing
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alinayanxi&show_icons=true&theme=rose_pine&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=alinayanxi&show_icons=true&theme=rose_pine&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinayanxi&layout=compact&theme=rose_pine&hide_border=true" />
-
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alinayanxi&layout=compact&theme=rose_pine&hide_border=true" />
 ---
 
 ## 🔥 GitHub Streak
