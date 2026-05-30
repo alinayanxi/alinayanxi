@@ -1,14 +1,12 @@
 <div align="center">
 
-# 🌸 Hi, I'm Alina Chen
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:ff69b4,100:ffc0cb&height=220&section=header&text=Alina%20Chen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Marketing%20Analytics&descSize=18&descAlignY=55" />
 
-### Data Analyst • Business Intelligence • Marketing Analytics
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Alina+Chen+%F0%9F%8C%B8;Business+Analytics+Graduate+Student;Data+Analyst+%7C+BI+Analyst+%7C+Marketing+Analytics;China+%F0%9F%87%A8%F0%9F%87%B3+%E2%86%92+France+%F0%9F%87%AB%F0%9F%87%B7+%E2%86%92+United+States+%F0%9F%87%BA%F0%9F%87%B8;Turning+Data+into+Business+Insights" />
 
-🇨🇳 China → 🇫🇷 France → 🇺🇸 United States
+<br>
 
-🎓 M.S. Applied Business Analytics @ Boston University
-
-📊 Turning Data into Business Insights
+<img src="https://komarev.com/ghpvc/?username=alinayanxi&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 
 </div>
 
@@ -16,84 +14,187 @@
 
 ## 🌸 About Me
 
-I am an aspiring Data Analyst with international academic and professional experience across China, France, and the United States.
+Hi, I'm **Alina Chen**.
 
-I completed my undergraduate degree in International Marketing and Sales Management in France and am currently pursuing a Master's degree in Applied Business Analytics at Boston University.
+I am a graduate student in **Applied Business Analytics** at **Boston University**, with international academic and professional experience across **China 🇨🇳, France 🇫🇷, and the United States 🇺🇸**.
 
-My interests include:
+I completed my undergraduate studies in **International Marketing and Sales Management** in France and am now focusing on data analytics, business intelligence, marketing analytics, and data-driven strategy.
 
-- Business Intelligence
-- Data Analytics
-- Marketing Analytics
-- Customer Insights
-- Data Visualization
-- Predictive Analytics
+I enjoy transforming data into meaningful insights that help organizations understand customers, improve performance, and support better decision-making.
 
 ---
 
-## 💻 Tech Stack
+## 🎓 Education
 
-### Analytics
+### Boston University
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**M.S. in Applied Business Analytics**
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+Focus Areas:
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+* Business Analytics
+* Data Visualization
+* Business Intelligence
+* Predictive Analytics
+* Machine Learning
 
-### Visualization
+### Excelia Business School, France
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+**B.B.A. in International Marketing and Sales Management**
 
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Focus Areas:
 
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinayanxi&show_icons=true&theme=dracula&title_color=ff69b4&icon_color=ff85c1&text_color=8b5f7a&bg_color=fff0f6&border_color=ffb6d9&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinayanxi&layout=compact&title_color=ff69b4&text_color=8b5f7a&bg_color=fff0f6&border_color=ffb6d9&border_radius=15"/>
-
-</div>
+* International Business
+* Marketing Strategy
+* Consumer Behavior
+* Sales Management
+* Cross-Cultural Communication
 
 ---
 
-## 🐍 Contribution Snake
+## 🛠 Tech Stack
 
-![Snake animation](https://github.com/alinayanxi/alinayanxi/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,github,vscode,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-FF69B4?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-FFB6C1?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-FF85C1?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-FF69B4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-FFB6C1?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/HubSpot-FF85C1?style=for-the-badge&logo=hubspot&logoColor=white" />
+</p>
+
+---
+
+## 💼 Professional Interests
+
+* 📊 Business Intelligence
+* 📈 Data Analytics
+* 💡 Marketing Analytics
+* 🧠 Customer Insights
+* 📉 Dashboard Development
+* 🤖 Machine Learning Applications
+* 🌍 International Business Strategy
 
 ---
 
 ## 🌍 Global Journey
 
+<div align="center">
+
 ```text
-China 🇨🇳
-   ↓
-France 🇫🇷
-   ↓
-Boston 🇺🇸
+China 🇨🇳  →  France 🇫🇷  →  United States 🇺🇸
 ```
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Career Analytics Project
+
+A data-driven project analyzing job market trends, required skills, and career opportunities using Python, SQL, and visualization tools.
+
+**Focus:**
+Data Cleaning · EDA · Visualization · Labor Market Analysis
+
+</td>
+<td width="50%">
+
+### 📈 Marketing Analytics Portfolio
+
+Projects focused on campaign performance, customer segmentation, paid ads optimization, and conversion funnel analysis.
+
+**Focus:**
+Google Analytics · A/B Testing · CRM · Customer Insights
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📉 Business Intelligence Dashboard
+
+Dashboard projects designed to communicate business performance, KPIs, and strategic insights clearly.
+
+**Focus:**
+Tableau · Power BI · Excel · KPI Tracking
+
+</td>
+<td width="50%">
+
+### ☁️ Big Data & Cloud Learning
+
+Hands-on learning with AWS EC2, Spark, PySpark, GitHub, and data engineering workflows.
+
+**Focus:**
+AWS · PySpark · GitHub · Data Processing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinayanxi&show_icons=true&theme=transparent&title_color=ff69b4&text_color=8b5f7a&icon_color=ff85c1&border_color=ffb6d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinayanxi&layout=compact&theme=transparent&title_color=ff69b4&text_color=8b5f7a&border_color=ffb6d9" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alinayanxi&theme=transparent&ring=ff69b4&fire=ff85c1&currStreakLabel=ff69b4&sideLabels=8b5f7a&dates=8b5f7a" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alinayanxi/alinayanxi/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: Coming Soon
-- Email: alinayanxi@gmail.com
+<p align="center">
+  <a href="mailto:alinacyx@bu.edu">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/alinayanxi">
+    <img src="https://img.shields.io/badge/GitHub-FF85C1?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alinayanxi">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://alinayanxi.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,50:ff69b4,100:ffb6d9&height=120&section=footer" />
+
 ### 🌸 Thanks for visiting my profile 🌸
+
+**Turning data into decisions, and decisions into growth.**
 
 </div>
