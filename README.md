@@ -83,7 +83,6 @@ Focus Areas:
 
 ## 🌍 Global Journey
 
-## 🌏 Global Journey
 
 <div align="center">
 
