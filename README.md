@@ -83,13 +83,25 @@ Focus Areas:
 
 ## 🌍 Global Journey
 
-<div align="center">
+## 🌏 Global Journey
 
-```text
-China 🇨🇳  →  France 🇫🇷  →  United States 🇺🇸
-```
+<p align="center">
 
-</div>
+<img src="https://img.shields.io/badge/🇨🇳_China-E60012?style=for-the-badge"/>
+
+➜
+
+<img src="https://img.shields.io/badge/🇫🇷_France-0055A4?style=for-the-badge"/>
+
+➜
+
+<img src="https://img.shields.io/badge/🇺🇸_United_States-B22234?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+International Marketing → Business Analytics → Data Intelligence
+</p>
 
 ---
 
