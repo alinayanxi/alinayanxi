@@ -85,23 +85,35 @@ Focus Areas:
 
 ## 🌏 Global Journey
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/🇨🇳_China-E60012?style=for-the-badge"/>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://flagcdn.com/w160/cn.png" width="90"><br>
+<b>China</b><br>
+<sub>Business Strategy & Market Intelligence</sub>
+</td>
 
-➜
+<td align="center" width="33%">
+<img src="https://flagcdn.com/w160/fr.png" width="90"><br>
+<b>France</b><br>
+<sub>International Marketing & Sales Management</sub>
+</td>
 
-<img src="https://img.shields.io/badge/🇫🇷_France-0055A4?style=for-the-badge"/>
+<td align="center" width="33%">
+<img src="https://flagcdn.com/w160/us.png" width="90"><br>
+<b>United States</b><br>
+<sub>Applied Business Analytics @ Boston University</sub>
+</td>
+</tr>
+</table>
 
-➜
+<br>
 
-<img src="https://img.shields.io/badge/🇺🇸_United_States-B22234?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=China+%E2%86%92+France+%E2%86%92+United+States;International+Marketing+%E2%86%92+Business+Analytics+%E2%86%92+Data+Intelligence;Global+Perspective+%7C+Cross-Cultural+Experience+%7C+Data-Driven+Mindset" />
 
-</p>
-
-<p align="center">
-International Marketing → Business Analytics → Data Intelligence
-</p>
+</div>
 
 ---
 
