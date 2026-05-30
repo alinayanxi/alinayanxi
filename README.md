@@ -109,11 +109,15 @@ China 🇨🇳  →  France 🇫🇷  →  United States 🇺🇸
 
 ## GitHub Stats
 
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinayanxi&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinayanxi&show_icons=true&title_color=ff69b4&text_color=8b5f7a&icon_color=ff85c1&bg_color=fff0f6&border_color=ffb6d9&border_radius=15" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinayanxi&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinayanxi&layout=compact&title_color=ff69b4&text_color=8b5f7a&bg_color=fff0f6&border_color=ffb6d9&border_radius=15" />
 
 </div>
 
