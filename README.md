@@ -148,10 +148,12 @@ AWS · PySpark · GitHub · Data Processing
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinayanxi&show_icons=true&theme=transparent&title_color=ff69b4&text_color=8b5f7a&icon_color=ff85c1&border_color=ffb6d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinayanxi&layout=compact&theme=transparent&title_color=ff69b4&text_color=8b5f7a&border_color=ffb6d9" />
-</p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=alinayanxi&show_icons=true&theme=rose_pine&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinayanxi&layout=compact&theme=rose_pine&hide_border=true" />
+
+</p>
 ---
 
 ## 🔥 GitHub Streak
