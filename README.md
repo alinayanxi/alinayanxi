@@ -32,37 +32,53 @@ I enjoy transforming data into meaningful insights that help organizations under
 <tr>
 <td align="center" width="50%">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Boston_University_seal.svg/512px-Boston_University_seal.svg.png" width="95"/>
+<h2>🇺🇸 Boston University</h2>
 
-### 🇺🇸 Boston University
+<b>M.S. in Applied Business Analytics</b>
 
-**M.S. in Applied Business Analytics**
+<br><br>
 
-<img src="https://img.shields.io/badge/Business%20Analytics-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-FF85C1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FFB6D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Boston-Massachusetts-FFB6D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graduate%20Program-Analytics-FF69B4?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Business%20Analytics-FF69B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-FF85C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-FFB6D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Predictive%20Analytics-FF69B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF85C1?style=flat-square"/>
 
 </td>
 
 <td align="center" width="50%">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Excelia_logo.svg/512px-Excelia_logo.svg.png" width="150"/>
+<h2>🇫🇷 Excelia Business School</h2>
 
-### 🇫🇷 Excelia Business School
+<b>B.B.A. in International Marketing & Sales Management</b>
 
-**B.B.A. in International Marketing & Sales Management**
+<br><br>
 
-<img src="https://img.shields.io/badge/International%20Business-0055A4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Marketing%20Strategy-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sales%20Management-FF85C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/France-International%20Business-0055A4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Undergraduate-Marketing-FF69B4?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/International%20Business-0055A4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Marketing%20Strategy-FF69B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Consumer%20Behavior-FF85C1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sales%20Management-FFB6D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cross--Cultural%20Communication-FF69B4?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
-</div>
+<br>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=International+Marketing+%E2%86%92+Business+Analytics;Global+Education+%E2%86%92+Data-Driven+Strategy;France+%E2%86%92+Boston+%E2%86%92+Analytics+Career" />
+
+</div>
 
 ## 🛠 Tech Stack
 
