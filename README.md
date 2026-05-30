@@ -1,113 +1,57 @@
-
 <div align="center">
 
-# Hi, I'm Alina Chen 👋
+# 🌸 Hi, I'm Alina Chen
 
-### Data Analyst | Business Intelligence | Marketing Analytics | Marketer
+### Data Analyst • Business Intelligence • Marketing Analytics
 
-🌍 China 🇨🇳 → France 🇫🇷 → United States 🇺🇸
-🎓 M.S. in Applied Business Analytics @ Boston University
-📊 Turning data into business insights
+🇨🇳 China → 🇫🇷 France → 🇺🇸 United States
+
+🎓 M.S. Applied Business Analytics @ Boston University
+
+📊 Turning Data into Business Insights
 
 </div>
 
 ---
 
-## About Me
+## 🌸 About Me
 
-I am a Business Analytics graduate student with international academic and professional experience across **China, France, and the United States**.
+I am an aspiring Data Analyst with international academic and professional experience across China, France, and the United States.
 
-I completed my undergraduate studies in **International Marketing and Sales Management** in France and am currently pursuing a master's degree in **Applied Business Analytics** at Boston University.
+I completed my undergraduate degree in International Marketing and Sales Management in France and am currently pursuing a Master's degree in Applied Business Analytics at Boston University.
 
-My interests focus on:
+My interests include:
 
-* Business Intelligence
-* Data Analytics
-* Marketing Analytics
-* Customer Insights
-* Data Visualization
-* Machine Learning
-* Data-Driven Strategy
-
----
-
-## Global Journey
-
-```text
-China 🇨🇳  →  France 🇫🇷  →  United States 🇺🇸
-```
-
-* 🇨🇳 China: Business strategy, consulting, and market intelligence experience
-* 🇫🇷 France: Undergraduate studies, marketing analytics, sales, and customer insights
-* 🇺🇸 United States: Graduate studies in business analytics and growth strategy experience
+- Business Intelligence
+- Data Analytics
+- Marketing Analytics
+- Customer Insights
+- Data Visualization
+- Predictive Analytics
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
-### Data Analytics & Programming
+### Analytics
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,github,vscode" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Business Intelligence & Visualization
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Marketing & CRM Analytics
+### Visualization
 
-<p>
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-</p>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-### Web & Design
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,html,css" />
-  <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-</p>
+### Database
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Featured Areas
-
-### Business Analytics
-
-* Data cleaning and transformation
-* Dashboard development
-* KPI tracking
-* Business performance analysis
-* Predictive analytics
-
-### Marketing Analytics
-
-* Customer segmentation
-* Campaign performance analysis
-* A/B testing
-* SEO and paid ads analytics
-* CRM funnel optimization
-
-### Strategy & Growth
-
-* Market research
-* Competitive benchmarking
-* Customer acquisition analysis
-* Lead conversion optimization
-* Business reporting
-
----
-
-## GitHub Stats
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -115,70 +59,41 @@ China 🇨🇳  →  France 🇫🇷  →  United States 🇺🇸
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinayanxi&show_icons=true&title_color=ff69b4&text_color=8b5f7a&icon_color=ff85c1&bg_color=fff0f6&border_color=ffb6d9&border_radius=15" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinayanxi&show_icons=true&theme=dracula&title_color=ff69b4&icon_color=ff85c1&text_color=8b5f7a&bg_color=fff0f6&border_color=ffb6d9&border_radius=15"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinayanxi&layout=compact&title_color=ff69b4&text_color=8b5f7a&bg_color=fff0f6&border_color=ffb6d9&border_radius=15" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/alinayanxi/alinayanxi/blob/output/github-contribution-grid-snake.svg)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinayanxi&layout=compact&title_color=ff69b4&text_color=8b5f7a&bg_color=fff0f6&border_color=ffb6d9&border_radius=15"/>
 
 </div>
 
 ---
 
-## Projects
+## 🐍 Contribution Snake
 
-### Career Analytics Project
-
-A data-driven project analyzing employment trends, job skills, and career opportunities using Python, SQL, and visualization tools.
-
-### Marketing Analytics Portfolio
-
-Projects focused on customer behavior, paid ads performance, campaign optimization, and conversion funnel analysis.
-
-### Business Intelligence Dashboard
-
-Dashboard projects using Tableau, Power BI, and Excel to communicate business insights clearly and visually.
+![Snake animation](https://github.com/alinayanxi/alinayanxi/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## Languages
+## 🌍 Global Journey
 
-* Mandarin Chinese: Native
-* Cantonese: Native
-* English: Fluent
-* French: Professional Working Proficiency
+```text
+China 🇨🇳
+   ↓
+France 🇫🇷
+   ↓
+Boston 🇺🇸
+```
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
-<p>
-  <a href="mailto:alinacyx@bu.edu">
-    <img src="https://img.shields.io/badge/Email-alinacyx%40bu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/alinayanxi">
-    <img src="https://img.shields.io/badge/GitHub-alinayanxi-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/alinayanxi">
-    <img src="https://img.shields.io/badge/LinkedIn-Alina%20Chen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- LinkedIn: Coming Soon
+- Email: alinayanxi@gmail.com
 
 ---
 
 <div align="center">
 
-### “Turning data into decisions, and decisions into growth.”
+### 🌸 Thanks for visiting my profile 🌸
 
 </div>
-
