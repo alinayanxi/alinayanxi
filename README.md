@@ -26,29 +26,41 @@ I enjoy transforming data into meaningful insights that help organizations under
 
 ## 🎓 Education
 
-### Boston University
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Boston_University_seal.svg/512px-Boston_University_seal.svg.png" width="95"/>
+
+### 🇺🇸 Boston University
 
 **M.S. in Applied Business Analytics**
 
-Focus Areas:
+<img src="https://img.shields.io/badge/Business%20Analytics-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-FF85C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FFB6D9?style=for-the-badge"/>
 
-* Business Analytics
-* Data Visualization
-* Business Intelligence
-* Predictive Analytics
-* Machine Learning
+</td>
 
-### Excelia Business School, France
+<td align="center" width="50%">
 
-**B.B.A. in International Marketing and Sales Management**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Excelia_logo.svg/512px-Excelia_logo.svg.png" width="150"/>
 
-Focus Areas:
+### 🇫🇷 Excelia Business School
 
-* International Business
-* Marketing Strategy
-* Consumer Behavior
-* Sales Management
-* Cross-Cultural Communication
+**B.B.A. in International Marketing & Sales Management**
+
+<img src="https://img.shields.io/badge/International%20Business-0055A4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Marketing%20Strategy-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sales%20Management-FF85C1?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
